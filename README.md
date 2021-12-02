@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asifakram74
 - 🌱 I’m currently learning in web development field.
-- 💞️ I’m looking to collaborate on reactjs project.
+- 💞️ I’m looking to collaborate on front-end project.
 
 
 <!---
