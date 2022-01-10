@@ -32,10 +32,10 @@
     <img src="https://img.icons8.com/ios/50/000000/wordpress--v1.png"/>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"  width="80" height="45"/>
     <a> <img src="https://img.icons8.com/windows/48/26e07f/php-logo.png" width="48" height="48"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/26e07f/java-coffee-cup-logo--v1.png"/></a> 
+<!--     <a> <img src="https://img.icons8.com/color/48/26e07f/java-coffee-cup-logo--v1.png"/></a> 
     <a> <img src="https://img.icons8.com/color/48/26e07f/flutter.png"/></a>
     <a> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+    <img src="https://img.icons8.com/color/48/000000/dart.png"/> -->
      
 </p>
 
@@ -48,9 +48,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Ajinkyap331/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=Ajinkyap331&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/asifakram74/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=asifakram74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  <a href="https://github.com/Ajinkyap331/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkyap331&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/asifakram74/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifakram74&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Ajinkyap331/github-readme-activity-graph"><img alt="Ajinkya Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajinkyap331&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/asifakram74/github-readme-activity-graph"><img alt="Ajinkya Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asifakram74&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -66,9 +66,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "mailto:ajinkyap331@gmail.com"><img src="https://img.icons8.com/material-outlined/48/ffffff/email.png"/></a>
-<a href = "https://www.linkedin.com/in/ajinkya-patil-144709208"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/ajinkya_03_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:asifakram74@gmail.com"><img src="https://img.icons8.com/material-outlined/48/ffffff/email.png"/></a>
+<a href = "https://www.linkedin.com/in/muhammad-asif-17863570"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+<!-- <a href = "https://www.instagram.com/ajinkya_03_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
 
