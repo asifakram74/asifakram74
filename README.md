@@ -107,7 +107,7 @@ consists of and doesn't reflect experience or skill level.
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=asifakram74">
 </a>
  
