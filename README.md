@@ -14,7 +14,7 @@
 
 <h1 align = "center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asifakram74&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=asifakram74&theme=onedark)
 
 
 </h1>
