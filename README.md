@@ -13,16 +13,16 @@
 </h3>
 
 <h1 align="center">
-	[![trophy](https://github-profile-trophy.vercel.app/?username=Ajinkyap331&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+	[![trophy](https://github-profile-trophy.vercel.app/?username=asifakram74&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </h1>
 
-## 🙋‍♂️ About Me - 🔭 I’m currently Working on **Cross Media Sol** - 🌱 I’m
-currently learning **Redux, MongoDB, Express Js.** - 💬 Ask me about React JS,
-Next Js,Vu Js, Wordpress, JavaScript/jQuery, Responsive Design, HTML/CSS - 👨‍💻
-All of my projects are available at **[My
-Github](https://github.com/asifakram74?tab=repositories)** - 📫 How to reach me
-**[My Portfolio](https://asifakram.codes/)** - ⚡ Fun fact **Cheerful
-Programmer😂** ## 🚀 Languages and Tools:
+## 🙋‍♂️ About Me 
+- 🔭 I’m currently Working on **Cross Media Sol** 
+- 🌱 I’m currently learning **Redux, MongoDB, Express Js.** 
+- 💬 Ask me about React JS, Next Js,Vu Js, Wordpress, JavaScript/jQuery, Responsive Design, HTML/CSS 
+- 👨‍💻 All of my projects are available at **[MyGithub](https://github.com/asifakram74?tab=repositories)** 
+- 📫 How to reach me **[My Portfolio](https://asifakram.codes/)** 
+- ⚡ Fun fact **Cheerful Programmer😂** ## 🚀 Languages and Tools:
 
 <p align="center">
 	<img
