@@ -109,8 +109,7 @@ consists of and doesn't reflect experience or skill level.
 ## ❤ Views and Followers
  	<img src="https://komarev.com/ghpvc/?username=asifakram74" />
  
-<a href="https://github.com/asifakram74?tab=followers"
-	><img
-		src="https://img.shields.io/github/followers/asifakram74?label=Followers&style=social"
+<a href="https://github.com/asifakram74?tab=followers">
+	<img src="https://img.shields.io/github/followers/asifakram74?label=Followers&style=social"
 		alt="GitHub Badge"
 /></a>
