@@ -86,16 +86,7 @@ consists of and doesn't reflect experience or skill level.
 <br />
 <br />
 
-<a href="https://github.com/asifakram74/github-readme-activity-graph">
-	<img
-		alt="Asif's Activity Graph"
-		src="https://activity-graph.herokuapp.com/graph?username=asifakram74&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
-/></a>
-
-<br />
-<br />
-
-## Connect with me:
+ ## Connect with me:
 <p align="left">
 	<a href="mailto:asifakram74@gmail.com"
 		><img src="https://img.icons8.com/material-outlined/48/000000/email.png"
