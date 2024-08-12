@@ -8,8 +8,7 @@
 	/>, I'm Asif
 </h1>
 <h3 align="center">
-	Front-end Developer | React JS | Next Js | Vu Js | Wordpress |
-	JavaScript/jQuery | Responsive Design | HTML/CSS
+	🌱 Make it work, make it right, make it fast
 </h3>
 
 <h1 align = "center">
