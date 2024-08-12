@@ -85,38 +85,7 @@
 </div>
 </p>
 
-
-
-<p align="center">
-	<img
-		style="padding-right: 8px"
-		src="https://img.icons8.com/color/48/26e07f/react-native.png"
-	/>
-	<img src="https://img.icons8.com/color/48/000000/vue-js.png" />
-	<img src="https://img.icons8.com/color/48/26e07f/css3.png" />
-	<img
-		src="https://img.icons8.com/color/144/26e07f/html-5--v1.png"
-		width="45"
-		height="45"
-	/>
-	<img src="https://img.icons8.com/ios/50/000000/wordpress--v1.png" />
-	<img
-		src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
-		width="80"
-		height="45"
-	/>
-	<a>
-		<img
-			src="https://img.icons8.com/windows/48/26e07f/php-logo.png"
-			width="48"
-			height="48"
-		/>
-	</a>
-	<!--     <a> <img src="https://img.icons8.com/color/48/26e07f/java-coffee-cup-logo--v1.png"/></a> 
-    <a> <img src="https://img.icons8.com/color/48/26e07f/flutter.png"/></a>
-    <a> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-    <img src="https://img.icons8.com/color/48/000000/dart.png"/> -->
-</p>
+ 
 
 <br />
 
@@ -145,7 +114,7 @@ consists of and doesn't reflect experience or skill level.
  
  ## Connect with me:
 <p align="left">
-	<a href="mailto:asifakram74@gmail.com"
+	<a href="mailto:masifakram74@gmail.com"
 		><img src="https://img.icons8.com/material-outlined/48/000000/email.png"
 	/></a>
 	<a href="https://www.linkedin.com/in/muhammad-asif-17863570"
