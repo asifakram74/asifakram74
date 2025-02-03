@@ -23,7 +23,6 @@
 - 🌱 I’m currently learning **Redux, MongoDB, Express Js.** 
 - 💬 Ask me about React JS, Next Js,Vu Js, Wordpress, JavaScript/jQuery, Responsive Design, HTML/CSS 
 - 👨‍💻 All of my projects are available at **[MyGithub](https://github.com/asifakram74?tab=repositories)** 
-- 📫 How to reach me **[My Portfolio](https://asifakram.codes/)** 
 - ⚡ Fun fact **Cheerful Programmer😂** ## 🚀 Languages and Tools:
 
 
